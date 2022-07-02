@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="tokyo_night_vs22.9a234200-64ad-4fea-a21a-c50efae587fa" Version="1.0" Language="en-US" Publisher="Jan-Hendrik Ude" />
+        <Identity Id="tokyo_night_vs22.9a234200-64ad-4fea-a21a-c50efae587fa" Version="0.8.9" Language="en-US" Publisher="Jan-Hendrik Ude" />
         <DisplayName>tokyo_night_vs22</DisplayName>
-        <Description>Empty VSIX Project.</Description>
+        <Description xml:space="preserve">A clean, dark Visual Studio theme that celebrates the lights of Downtown Tokyo at night. </Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
